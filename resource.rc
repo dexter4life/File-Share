@@ -1,0 +1,5 @@
+#include <Windows.h>
+
+ID_ICON ICON DISCARDABLE "Share.ico"
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "fileshare2.exe.manifest"

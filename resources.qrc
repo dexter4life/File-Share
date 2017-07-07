@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>image/appBkg.png</file>
+        <file>image/exitButton00.png</file>
+        <file>image/exitButton01.png</file>
+        <file>image/exitButtonBark.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/minimizeButton.png</file>
+        <file>image/minimizeButton01.png</file>
+        <file>image/minimizeButtonDark.png</file>
+        <file>image/background.jpg</file>
+        <file>image/share-icon.png</file>
+        <file>image/viewHistory.png</file>
+        <file>image/Apps-Home-icon.png</file>
+        <file>image/Settings-icon.png</file>
+        <file>image/hotspot_1.png</file>
+        <file>image/hotspot_2.png</file>
+        <file>image/hotspot_3.png</file>
+        <file>image/Share.png</file>
+        <file>image/connect-icon.png</file>
+        <file>image/delete-512.png</file>
+        <file>image/send-file-128.png</file>
+        <file>image/add-user-2-512.png</file>
+    </qresource>
+</RCC>
